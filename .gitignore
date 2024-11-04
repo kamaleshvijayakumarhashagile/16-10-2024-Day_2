@@ -1,0 +1,16 @@
+# Node modules (front_end)
+frontend/node_modules/
+
+# Log files
+*.log
+npm-debug.log*
+
+# Python cache files (back_end)
+backend/__pycache__/
+
+# Compiled files (for frontend, if any generated)
+frontend/dist/
+frontend/build/
+
+# Environment variable files
+.env
